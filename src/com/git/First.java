@@ -13,4 +13,8 @@ public class First {
 		System.out.println("Code by Arche1");
 	}
 
+	public void Arche2() {
+		System.out.println("Code by Arche2");
+	}
+
 }
