@@ -8,5 +8,13 @@ public class First {
 
 		System.out.println("Person B");
 	}
+	
+	public void Arche1() {
+		System.out.println("Code by Arche1");
+	}
+
+	public void Arche2() {
+		System.out.println("Code by Arche2");
+	}
 
 }
