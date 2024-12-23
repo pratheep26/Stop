@@ -8,4 +8,8 @@ public class NewDev {
 		System.out.println("New dev merged");
 	}
 
+	public void version3(){
+		
+	}
+
 }
