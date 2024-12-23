@@ -9,7 +9,7 @@ public class NewDev {
 	}
 
 	public void version3(){
-		
+		System.out.println("Version 3 done");
 	}
 
 }
